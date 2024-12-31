@@ -1,4 +1,4 @@
-# Project : Airbnb Market Trends and Pricing Analysis
+# Project : Airbnb Market Trends and Pricing 
 ![Project Image](https://github.com/PrathamAnalytics/AirBnB-Tableau-Project/blob/main/Image.png?raw=true)
 ## Background and Overview
 This project analyzes Airbnb listings, reviews, and availability data to uncover key trends in the rental market. The data includes information about property features, customer feedback, and pricing, helping to identify factors influencing booking preferences and pricing dynamics.
