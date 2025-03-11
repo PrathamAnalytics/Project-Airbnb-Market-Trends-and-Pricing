@@ -1,5 +1,8 @@
 # ***Airbnb Market Trends and Pricing*** 
-![Project Image](https://github.com/PrathamAnalytics/AirBnB-Tableau-Project/blob/main/Image.png?raw=true)
+<p align="center">
+  <img src="https://github.com/PrathamAnalytics/AirBnB-Tableau-Project/blob/main/Image.png?raw=true" alt="Project Image">
+</p>
+
 # ***Project Overview***
 This project analyzes Airbnb listings, reviews, and calendar data to extract actionable insights into pricing trends, customer preferences, and booking patterns. The findings are intended to support data-driven decision-making for stakeholders, including property owners, managers, and Airbnb strategists.
 
